@@ -1,0 +1,13 @@
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\bin\iPhone\Debug\ViewModelBindingExampleiOS.exe
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\bin\iPhone\Debug\ViewModelBindingExampleiOS.pdb
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\bin\iPhone\Debug\ViewModelBindingExample.dll
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\bin\iPhone\Debug\ViewModelBindingExample.pdb
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\obj\iPhone\Debug\
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\obj\iPhone\Debug\ViewModelBindingExample.iOS.csprojResolveAssemblyReference.cache
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\obj\iPhone\Debug\ViewModelBindingExampleiOS.exe
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample.iOS\obj\iPhone\Debug\ViewModelBindingExampleiOS.pdb

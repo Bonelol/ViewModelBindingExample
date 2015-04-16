@@ -1,0 +1,9 @@
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample\bin\Debug\ViewModelBindingExample.dll
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample\bin\Debug\ViewModelBindingExample.pdb
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample\bin\Debug\Xamarin.Forms.Core.dll
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample\bin\Debug\Xamarin.Forms.Core.xml
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample\obj\Debug\ViewModelBindingExample.csprojResolveAssemblyReference.cache
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample\obj\Debug\ViewModelBindingExample.dll
+C:\ITS Projects\ViewModelBindingExample\ViewModelBindingExample\ViewModelBindingExample\obj\Debug\ViewModelBindingExample.pdb
